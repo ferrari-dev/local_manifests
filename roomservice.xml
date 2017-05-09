@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" />
+  <project name="LineageOS/android_device_cyanogen_msm8916-common" path="device/cyanogen/msm8916-common" remote="github" />
+  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" />
+  <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" />
+  <project name="ferrari-dev/android_device_xiaomi_ferrari" path="device/xiaomi/ferrari" remote="github" />
+  <project name="ferrari-dev/android_kernel_xiaomi_ferrari" path="kernel/xiaomi/ferrari" remote="github" revision="master" />
+  <project name="ferrari-dev/proprietary_vendor_xiaomi_ferrari" path="vendor/xiaomi/ferrari" remote="github" />
+</manifest>
