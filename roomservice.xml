@@ -5,6 +5,7 @@
   <remove-project name="Halium/hybris-boot" />
   <project name="ferrari-dev/hybris-boot" path="halium/hybris-boot" remote="github" revision="refs/heads/master" />
   <project name="ferrari-dev/halium-scripts" path="halium/halium-scripts" remote="github" revision="refs/heads/master" />
+  <project name="ferrari-dev/lxc-android" path="halium/lxc-android" remote="github" revision="refs/heads/master" />
 
   <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" revision="refs/heads/cm-14.1" />
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="refs/heads/cm-14.1" />
